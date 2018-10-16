@@ -1,0 +1,16 @@
+PODS:
+  - gsebaets2018 (0.1.0)
+
+DEPENDENCIES:
+  - gsebaets2018 (from `../`)
+
+EXTERNAL SOURCES:
+  gsebaets2018:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  gsebaets2018: 9234c99766e590b870cece975481001d691ec891
+
+PODFILE CHECKSUM: 6bc970ea50028b9fcd38a5ba36fb917a7d50f798
+
+COCOAPODS: 1.5.3

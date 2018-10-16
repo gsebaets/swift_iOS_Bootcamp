@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'gsebaets2018_Example' do
+  pod 'gsebaets2018', :path => '../'
+
+  target 'gsebaets2018_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

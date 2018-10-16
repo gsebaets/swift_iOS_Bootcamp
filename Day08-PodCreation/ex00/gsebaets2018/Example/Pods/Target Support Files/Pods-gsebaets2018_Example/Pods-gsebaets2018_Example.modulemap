@@ -1,0 +1,6 @@
+framework module Pods_gsebaets2018_Example {
+  umbrella header "Pods-gsebaets2018_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
